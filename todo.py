@@ -42,7 +42,7 @@ bienvenido al sistema de holteles de colombia
 
 
 
-
+def menu():
     while True:
         print("""======================================================================
         sistema de reserva de hoteles
